@@ -1,29 +1,63 @@
+<h1 align="center">Theertha Prasad B</h1>
 
-# Hi, I'm Theertha 👋
+<p align="center">
+  Aspiring Machine Learning Engineer · India
+</p>
 
-🎯 Aspiring Machine Learning Engineer from India
+<p align="center">
+  <a href="https://www.linkedin.com/in/theertha22">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/theerthaprasad22">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-## Currently learning
-- Python programming
-- Mathematics for Machine Learning
-- Machine Learning fundamentals
+---
 
-## Career Goal
-To become a high-paying Machine Learning Engineer and build real-world AI systems.
+## About
 
-## Learning Journey
-- Started with Python basics
-- Building strong foundations in math and ML
-- Will be uploading projects and notes regularly
+I am an aspiring Machine Learning Engineer focused on building a strong foundation in programming, mathematics, and core ML concepts. I work on practical projects to apply what I learn, with the goal of developing and deploying real-world AI systems. I am committed to consistent, hands-on growth and am actively preparing for a career in machine learning.
 
-## Skills I'm working on
-- Python
-- Data Structures
-- Statistics
-- Machine Learning
+## Technical Skills
 
-## 2026 Goals
-- Upload ML projects
-- Implement ML algorithms from scratch
-- Become job-ready for ML roles
+**Languages**
+&nbsp;Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; PHP
 
+**Machine Learning & Data**
+&nbsp;NumPy &nbsp;·&nbsp; pandas &nbsp;·&nbsp; scikit-learn &nbsp;·&nbsp; Statistics
+
+**Tools & Workflow**
+&nbsp;Git &nbsp;·&nbsp; GitHub
+
+**Foundations**
+&nbsp;Data Structures &nbsp;·&nbsp; Mathematics for Machine Learning
+
+## Selected Projects
+
+| Project | Description | Tech |
+| ------- | ----------- | ---- |
+| [AI Resume Analyzer](https://github.com/theerthaprasad22/AI-Resume-Analyzer) | Parses resumes and extracts key information to support candidate evaluation. | Python |
+| [AI Medical Symptom Checker](https://github.com/theerthaprasad22/AI-Medical-Symptom-Checker) | Suggests possible conditions based on user-reported symptoms. | JavaScript |
+| [ByteBlog](https://github.com/theerthaprasad22/ByteBlog) | A web-based blogging platform for creating, publishing, and managing articles. | PHP |
+| [Machine Learning](https://github.com/theerthaprasad22/Machine-Learning) | Implementations and notes covering ML algorithms, including work from scratch. | Python |
+| [Python Practice](https://github.com/theerthaprasad22/Python-Practice) | Foundational exercises covering core programming and problem-solving. | Python |
+
+## Current Focus
+
+- Implementing machine learning algorithms from first principles
+- Strengthening mathematics and statistics for ML
+- Publishing projects and notes on a regular basis
+- Building toward professional readiness for ML roles
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theerthaprasad22&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theerthaprasad22&layout=compact&hide_border=true" alt="Top languages" height="165"/>
+</p>
+
+## Contact
+
+- LinkedIn: [in/theertha22](https://www.linkedin.com/in/theertha22)
+- GitHub: [@theerthaprasad22](https://github.com/theerthaprasad22)
