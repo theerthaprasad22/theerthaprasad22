@@ -50,13 +50,6 @@ I am an aspiring Machine Learning Engineer focused on building a strong foundati
 - Publishing projects and notes on a regular basis
 - Building toward professional readiness for ML roles
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theerthaprasad22&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theerthaprasad22&layout=compact&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
 ## Contact
 
 - LinkedIn: [in/theertha22](https://www.linkedin.com/in/theertha22)
