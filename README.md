@@ -22,10 +22,10 @@ I am an aspiring Machine Learning Engineer focused on building a strong foundati
 ## Technical Skills
 
 **Languages**
-&nbsp;Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; PHP
+&nbsp;Python &nbsp;·&nbsp; Java &nbsp;·&nbsp; PHP
 
-**Machine Learning & Data**
-&nbsp;NumPy &nbsp;·&nbsp; pandas &nbsp;·&nbsp; scikit-learn &nbsp;·&nbsp; Statistics
+**Machine Learning & AI**
+&nbsp;NumPy &nbsp;·&nbsp; pandas &nbsp;·&nbsp; scikit-learn &nbsp;·&nbsp; NLP &nbsp;·&nbsp; Tensorflow &nbsp;·&nbsp; Gen AI &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Fine Tuning 
 
 **Tools & Workflow**
 &nbsp;Git &nbsp;·&nbsp; GitHub
